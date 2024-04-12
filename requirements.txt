@@ -1,0 +1,7 @@
+pandas
+requests
+pdfplumber
+PyMuPDF
+PIL
+sqlite3
+threading
